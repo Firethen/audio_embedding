@@ -1,8 +1,6 @@
 from train import run_model
 from torch.utils.data import DataLoader
 import dataloader
-import conv_net
-import torch
 
 def main():
 
